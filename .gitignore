@@ -1,0 +1,14 @@
+# Local and generated files
+.DS_Store
+Thumbs.db
+*.zip
+*.log
+
+# Sensitive source materials
+*.wav
+*.mp3
+*.m4a
+*.mp4
+*.mov
+transcript*
+transcription_segments*

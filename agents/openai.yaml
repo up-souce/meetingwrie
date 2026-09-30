@@ -1,0 +1,7 @@
+interface:
+  display_name: "会议纪要编写"
+  short_description: "将会议材料整理为可核查的结构化会议纪要"
+  default_prompt: "Use $meeting-minutes-writing to turn the supplied transcript into a factual, structured meeting minutes document."
+
+policy:
+  allow_implicit_invocation: true
